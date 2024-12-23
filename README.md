@@ -1,3 +1,4 @@
+![mern](https://github.com/user-attachments/assets/69676980-e6c2-4c5c-be48-c1309a11cd5a)
 # **Full-Stack Web Developer | Modern, Scalable, and Efficient Solutions**
 
 I’m a Full-Stack Developer with a passion for crafting high-performance web applications. My expertise lies in building robust front-end interfaces using **React** and **Next.js**, alongside scalable back-end architectures powered by **Node.js** and **Express**.  
