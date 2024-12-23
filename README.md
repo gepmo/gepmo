@@ -5,13 +5,13 @@ I’m a Full-Stack Developer with a passion for crafting high-performance web ap
 ---
 
 ## **Key Skills**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) 
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)  
-![Material-UI](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white&style=flat-square)  
-![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=flat-square)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square) 
+![Material-UI](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white&style=flat-square) 
+![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=flat-square) 
 
 ---
 
